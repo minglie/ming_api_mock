@@ -11,7 +11,9 @@
     "url": "git+https://github.com/minglie/ming_api_mock.git"
   },
   "bin": {
-    "ming_api_mock": "bin/main.js"
+    "ming_api_mock": "bin/main.js",
+    "kil_port": "bin/killport.bat"
+
   },
   "keywords": [],
   "author": "",
