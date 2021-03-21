@@ -1,0 +1,26 @@
+{
+  "name": "ming_api_mock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minglie/ming_api_mock.git"
+  },
+  "bin": {
+    "ming_api_mock": "bin/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minglie/ming_api_mock/issues"
+  },
+  "homepage": "https://github.com/minglie/ming_api_mock#readme",
+  "dependencies": {
+    "ming_node": "^1.9.51"
+  }
+}
